@@ -154,9 +154,8 @@ export default {
 <style>
 .right-section {
   background-image: url("./assets/towers.jpg");
-  background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-size: cover;
   border-radius: 4px;
 }
 .data-table {
